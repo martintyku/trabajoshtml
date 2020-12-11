@@ -1,0 +1,35 @@
+h1 {
+    width: 500px;
+    color:rgb(0, 0, 0);
+    font: Arial, Helvetica, sans-serif;
+    text-align: center;
+    background-color: lightslategrey;
+}
+h2 {
+    width: 500px;
+    font: Arial, Helvetica, sans-serif;
+    text-align: center;
+    background-color:lightslategrey;
+    color: white;
+}
+span {
+    color:rgb(0, 0, 0);
+    font-weight: bold;
+    font: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+p {
+    line-height: 2;
+    color: rgb(75, 74, 74); 
+}
+div {
+    width: 500px;
+    background-color: rgb(245, 245, 245);
+}
+content {
+         width: 500px;
+}
+img{
+    display:block;
+    margin:auto;
+    }
